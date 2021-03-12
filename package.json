@@ -1,23 +1,19 @@
 {
-  "name": "@r.phuwanat/minbootstrap",
-  "version": "1.8.7",
-  "description": "Minimal Alternative Bootstrap",
+  "name": "minbootstrap",
+  "version": "1.0.0",
+  "description": "![Minimal Bootstrap](https://pwnrrk.github.io/mb-ico.png)",
   "main": "index.js",
   "scripts": {
-    "test": "Test"
+    "test": ""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pwnrrk/minbootstrap.git"
+    "url": "git+https://github.com/matchday-th/md-bootstrap.git"
   },
-  "keywords": [
-    "bootstrap",
-    "minimal"
-  ],
-  "author": "R.Phuwanat",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pwnrrk/minbootstrap/issues"
+    "url": "https://github.com/matchday-th/md-bootstrap/issues"
   },
-  "homepage": "https://pwnrrk.github.io/minimalbootstrap"
+  "homepage": "https://github.com/matchday-th/md-bootstrap#readme"
 }
